@@ -1,0 +1,13 @@
+REM this is a test
+
+DEFAULTDELAY 100
+
+GUI
+
+STRING notepad
+
+ENTER
+
+DELAY 2000
+
+STRING hello :)
