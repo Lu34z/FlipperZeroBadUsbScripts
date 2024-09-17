@@ -1,11 +1,15 @@
 REM ## This wil crash your pc with tabs (hopefully) ##
 REM ## I am not responsible for any harm you may do with this code ##
 
+DEFAULTDELAY 100
+
 GUI
 
 STRING google.com
 
 ENTER
+
+DELAY 1000
 
 REM ## INITIATE DEATH SEQUENCE ##
 HOLD CONTROL
