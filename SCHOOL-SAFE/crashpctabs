@@ -16,5 +16,5 @@ HOLD CONTROL
 
 STRING t
 
-REPEAT 100
+REPEAT 250
 REM ## If this does not crash the pc, make the number higher like 500 or 1000. ##
