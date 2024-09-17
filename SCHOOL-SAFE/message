@@ -1,0 +1,20 @@
+REM ## This will display any message that you want in notepad. ##
+
+REM ###############################################################################################
+REM ## This script is not plug and play, if you want a custom message                            ##
+REM ## to be displayed, change "Default message." down below to any custom message that you want ##
+REM ###############################################################################################
+
+DEFAULTDELAY 100
+
+GUI
+
+STRING notepad
+
+ENTER
+
+REM ## You can change this number if the delay is too fast or slow. ##
+DELAY 1000
+
+REM ## Replace "Default message." with any message that you want to be displayed. ##
+STRING Default message.
