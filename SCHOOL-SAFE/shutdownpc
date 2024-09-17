@@ -1,0 +1,27 @@
+REM ## This will shut down your computer utilizing ctrl+alt+delete and is school safe ##
+REM ## I am not liable for any damage that you may inflict while using this code, use at your own risk ##
+
+REM ## You can remove "DEFAULTDELAY 100" if you would like the program to run faster ##
+DEFAULTDELAY 100
+
+HOLD CONTROL
+
+HOLD ALT
+
+HOLD DELETE
+
+RELEASE CONTROL
+
+RELEASE ALT
+
+RELEASE DELETE
+
+TAB
+
+REPEAT 6
+
+ENTER
+
+DOWNARROW
+
+ENTER
