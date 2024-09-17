@@ -1,0 +1,18 @@
+REM ## This will make your pc sleep ##
+REM ## I am not liable for any damage you may cause with this code ##
+
+DEFAULTDELAY 100
+
+HOLD CONTROL
+
+HOLD ALT
+
+HOLD DELETE
+
+TAB
+
+REPEAT 6
+
+ENTER
+
+ENTER
