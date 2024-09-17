@@ -9,12 +9,12 @@ STRING google.com
 
 ENTER
 
-DELAY 1000
+DELAY 5000
 
 REM ## INITIATE DEATH SEQUENCE ##
 HOLD CONTROL
 
 STRING t
 
-REM ## If this does not crash the pc, make the number higher like 5k or 10k. ##
-REPEAT 1000
+REPEAT 100
+REM ## If this does not crash the pc, make the number higher like 500 or 1000. ##
